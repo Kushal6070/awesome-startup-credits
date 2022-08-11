@@ -109,6 +109,8 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 - [Gumlet](https://www.gumlet.com/startups/) - Gumlet is an all-in-one video infrastructure product that helps you store, transcode, and stream video files. Eligible startups get $10,000 in credits (valid for 12 months) for Gumlet's Growth plan.
 
+- [Shotstack](https://shotstack.io/) - Gumlet is an all-in-one video infrastructure product that helps you store, transcode, and stream video files. Eligible startups get $10,000 in credits (valid for 12 months) for Gumlet's Growth plan.
+
 ### Miscellaneous
 
 - [Esri Startup Program](https://www.esri.com/en-us/about/esri-partner-network/our-partners/esri-startup-program) - The Esri Startup Program is a global three-year program that helps startups build mapping and location intelligence into their products and businesses.
